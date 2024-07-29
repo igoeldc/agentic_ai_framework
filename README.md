@@ -64,4 +64,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact us at [your.email@example.com](mailto:igoel5k@gmail.com).
+For any questions or suggestions, please open an issue or contact us at [Ishaan Goel](mailto:igoel5k@gmail.com).
